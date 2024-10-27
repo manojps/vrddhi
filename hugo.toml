@@ -1,0 +1,5 @@
+baseURL = 'https://vrddhi.xyz/'
+languageCode = 'en-us'
+title = 'Vr̥ddhi'
+
+theme='hugo-book'
