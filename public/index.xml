@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://vrddhi.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What inspired this work?</title>
+      <link>https://vrddhi.xyz/docs/the-world-is-hybrid/prologue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vrddhi.xyz/docs/the-world-is-hybrid/prologue/</guid>
+      <description>&lt;h1 id=&#34;what-inspired-this-work&#34;&gt;&#xA;  What inspired this work?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#what-inspired-this-work&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Four things.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tesla CEO&amp;rsquo;s rant that hybrid cars don&amp;rsquo;t make sense. Yes, this work was inspired by a talk about hybrid cars, although it is not about hybrid cars. See the irony!&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;My experience with data structures in computer systems during my Ph.D. journey.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Discussions on the philosophy and spread of monotheistic religions by different people and recalling my own experiences in this regard. If you can recall Yuval Noah Harari&amp;rsquo;s Sapiens (Chapter 12. The Law of Religion), you can proably guess what I am talking about.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
